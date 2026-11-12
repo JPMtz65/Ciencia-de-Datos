@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+test_R-ipynb
+test.ipynb
+test.R
